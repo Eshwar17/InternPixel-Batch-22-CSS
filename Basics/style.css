@@ -13,3 +13,6 @@ p {
     color: black;
     background-color: white;
 }
+a:hover {
+    color: orange;
+}
